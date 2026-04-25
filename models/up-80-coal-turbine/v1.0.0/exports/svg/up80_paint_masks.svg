@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="-20 -20 840 320">
+<rect x="0.00000" y="20.00000" width="218.00000" height="36.80000" fill="none" stroke="black" stroke-width="1"/>
+<rect x="0.00000" y="39.13600" width="218.00000" height="6.62400" fill="none" stroke="red" stroke-dasharray="4 2"/>
+<text x="0.00000" y="16.00000" font-size="8">A/control unit paint mask: gray roof/bottom, Armour Yellow body, red stripe guide</text>
+<rect x="0.00000" y="115.00000" width="340.00000" height="38.40000" fill="none" stroke="black" stroke-width="1"/>
+<rect x="0.00000" y="134.96800" width="340.00000" height="6.91200" fill="none" stroke="red" stroke-dasharray="4 2"/>
+<text x="0.00000" y="111.00000" font-size="8">Center turbine unit paint mask: gray roof/bottom, Armour Yellow body, red stripe guide</text>
+<rect x="0.00000" y="220.00000" width="200.00000" height="36.80000" fill="none" stroke="black" stroke-width="1"/>
+<rect x="0.00000" y="239.13600" width="200.00000" height="6.62400" fill="none" stroke="red" stroke-dasharray="4 2"/>
+<text x="0.00000" y="216.00000" font-size="8">Coal tender paint mask: gray roof/bottom, Armour Yellow body, red stripe guide</text>
+</svg>

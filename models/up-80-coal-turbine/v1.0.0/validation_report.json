@@ -1,0 +1,112 @@
+{
+  "generated_utc": "2026-04-25T17:48:02Z",
+  "stl_files": [
+    {
+      "file": "exports\\stl\\fdm\\a_control_chassis_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 5824,
+      "size_bytes": 1142615,
+      "sha256": "0ed59d755e7031965bbc14e601b6c0e566e9a46400eb6c03c928698995f858ac"
+    },
+    {
+      "file": "exports\\stl\\fdm\\a_control_shell_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 1672,
+      "size_bytes": 334406,
+      "sha256": "31e92c32cef04edfa60b6c911391ecf656583afbf252cdc9ed322488714858c7"
+    },
+    {
+      "file": "exports\\stl\\fdm\\center_turbine_chassis_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 10252,
+      "size_bytes": 2029007,
+      "sha256": "7e111f869b478f3946899251269ef79e58a42ccc4d0780e13298d51dc14af65c"
+    },
+    {
+      "file": "exports\\stl\\fdm\\center_turbine_shell_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 2240,
+      "size_bytes": 446869,
+      "sha256": "49d2debaf209d0ff1007521c359f63cbb90cb9518c9fb8c80fe54a1cfb300772"
+    },
+    {
+      "file": "exports\\stl\\fdm\\coal_tender_chassis_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 7424,
+      "size_bytes": 1455561,
+      "sha256": "fbe69a3765c935d9f70e6b6bbcfdd660a90ef12f4bb2a85ba3abfb72e4985fef"
+    },
+    {
+      "file": "exports\\stl\\fdm\\coal_tender_shell_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 684,
+      "size_bytes": 135961,
+      "sha256": "eb49ad675048b531e5e618128d8ecdfb28f4bba9a02b95e432332a531662814b"
+    },
+    {
+      "file": "exports\\stl\\fdm\\up80_detail_sprue_fdm.stl",
+      "ascii_stl": true,
+      "facet_count": 2772,
+      "size_bytes": 546491,
+      "sha256": "5faf01219fe66a1416c33e8f62b74aa152235882f0c4f1e8885313a4fcca07e1"
+    },
+    {
+      "file": "exports\\stl\\resin\\a_control_chassis_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 8216,
+      "size_bytes": 1610767,
+      "sha256": "f8f2f1da6c927a69248be3ad0f25f38eb15aa14a5223dc11f57ea33729ca0391"
+    },
+    {
+      "file": "exports\\stl\\resin\\a_control_shell_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 2944,
+      "size_bytes": 590522,
+      "sha256": "20490a15bb6e046183c67d99a2b028826df687b06da47d44c28e354beb54ed25"
+    },
+    {
+      "file": "exports\\stl\\resin\\center_turbine_chassis_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 13596,
+      "size_bytes": 2684759,
+      "sha256": "de6b2f5b830a90df8fdd06d4d8b3dcd7dbd3a3e4bd54aa05ab389723a6a7423e"
+    },
+    {
+      "file": "exports\\stl\\resin\\center_turbine_shell_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 2880,
+      "size_bytes": 575809,
+      "sha256": "9d1e13acddb7192da74028d2cf2d2365984e5a1b0e04c190d000cd1acbe5528b"
+    },
+    {
+      "file": "exports\\stl\\resin\\coal_tender_chassis_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 9304,
+      "size_bytes": 1823973,
+      "sha256": "11bcf460835e55aa8ffb4b612428b5e55c7b94852f06e80eb857591a0cf966f3"
+    },
+    {
+      "file": "exports\\stl\\resin\\coal_tender_shell_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 872,
+      "size_bytes": 173432,
+      "sha256": "a366a0b0c8156c8890e37f37799b4372abdd1b80992da48c5e2ce2b6a0b2676e"
+    },
+    {
+      "file": "exports\\stl\\resin\\up80_detail_sprue_resin.stl",
+      "ascii_stl": true,
+      "facet_count": 2772,
+      "size_bytes": 546495,
+      "sha256": "725cc0997dca7547cd8d96d1b72e006e0cbbbe49b1daa6488058d9db0660601e"
+    },
+    {
+      "file": "exports\\stl\\resin\\up80_test_coupons.stl",
+      "ascii_stl": true,
+      "facet_count": 1356,
+      "size_bytes": 265089,
+      "sha256": "8f6a438d7e23b5bcb02e034e4a45b96a29be2284faa4839d8824b41af3c83394"
+    }
+  ],
+  "overall_length_check_mm": 790.870264064294,
+  "minimum_radius_mm": 609.6
+}
