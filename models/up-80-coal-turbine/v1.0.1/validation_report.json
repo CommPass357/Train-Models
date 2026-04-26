@@ -1,0 +1,439 @@
+{
+  "generated_utc": "2026-04-26T04:13:54Z",
+  "stl_files": [
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_chassis_base_plate.stl",
+      "ascii_stl": true,
+      "facet_count": 5380,
+      "size_bytes": 1051715,
+      "sha256": "09fbe39f7bf4041923293388834910babb3181c3d5d37333182ff9f5f1d483bb"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_cosmetic_sideframes.stl",
+      "ascii_stl": true,
+      "facet_count": 1104,
+      "size_bytes": 217179,
+      "sha256": "eabe621e453fa2e09b36dbbf24d156f74d76bcb2546d1b04521c11afb6ba98c8"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_decoder_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 368,
+      "size_bytes": 71795,
+      "sha256": "2ef32864223221904c056ed7be9320269623a922f54f7d703be335737e81d9fb"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_front_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43739,
+      "sha256": "b9c71bfe9a076fbaaa85c2f5cff7d96ead323fb2135d770cbf6ba858e9907928"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_left_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11739,
+      "sha256": "ef5c10537b9075eab1b158e7665e85686e6a494b79d1cee779886445aed39941"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_lighting_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 180,
+      "size_bytes": 34565,
+      "sha256": "6551a6bda5f878108976442d712b04a4d8a99404e637ee4bb8f4aa2d54fc04e3"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_motor_cradle.stl",
+      "ascii_stl": true,
+      "facet_count": 380,
+      "size_bytes": 74003,
+      "sha256": "a38382754575c45419fc7472da6ca75a3fab7141d3d8c28e3215ff48a167d122"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_pickup_wiper_mounts.stl",
+      "ascii_stl": true,
+      "facet_count": 96,
+      "size_bytes": 18747,
+      "sha256": "80b124fac79be4584a0bce78b6dbd9d2ad205835a6ba67e1b83b3bdb49863cba"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_rear_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43737,
+      "sha256": "1cfff923bec0b34b49338a0288db4174111683f982a26cb85b4729e2932f2271"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_right_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11741,
+      "sha256": "a39e63ff344f9d0be6bde11930a812aeccd6c00081c7ae26471593bb601808e0"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_shell_mount_boss_set.stl",
+      "ascii_stl": true,
+      "facet_count": 816,
+      "size_bytes": 161021,
+      "sha256": "14b141e0bda689c00976aa2e29a30e1e187565df9271080a060794f17d95fed1"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_speaker_box.stl",
+      "ascii_stl": true,
+      "facet_count": 348,
+      "size_bytes": 67473,
+      "sha256": "f0903c1fb4157ca591b2d4e871fad1fff99e5bc15167ecedc6b141ed2fdf6294"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_truck_bolster_01.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 117927,
+      "sha256": "9e5aeb2a628069b97d695e7458ed8db0e51cbbede781465d2d88d1111421d6cb"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_truck_bolster_02.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 117927,
+      "sha256": "2d6eb7199d98f5fc54a8c0680d1d085dfdc915ffa69576eff21b26da78626dd3"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\a_control\\a_control_wire_retainers.stl",
+      "ascii_stl": true,
+      "facet_count": 144,
+      "size_bytes": 27929,
+      "sha256": "8b697a7b2904ed627ed6d2b11b411bc05c6f7f58b7fc88010ea633e55cf07200"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_chassis_base_plate.stl",
+      "ascii_stl": true,
+      "facet_count": 8448,
+      "size_bytes": 1661243,
+      "sha256": "46ee6b2306768e3fb34b20763bbe48c31e93dc18da545c9b06384c494017fb2f"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_cosmetic_sideframes.stl",
+      "ascii_stl": true,
+      "facet_count": 2880,
+      "size_bytes": 569357,
+      "sha256": "9393ecd9e87ffc97cc45214601535a1be0e9f7cd00c3783eceb3f0f07d156b7a"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_decoder_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 368,
+      "size_bytes": 71805,
+      "sha256": "ed456ab705276d3e7609f4b2c37b93e903b2f944004d535a6ad42f9494ef2db1"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_front_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43749,
+      "sha256": "1171186a357697a7a99969b3d51286ac9b99141c7e5c6bec80061fafa43416e7"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_left_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11749,
+      "sha256": "f3fc8af5fb618447bece3f47e108d54cc336bc244068eeb894f500299ab9f010"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_lighting_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 180,
+      "size_bytes": 34575,
+      "sha256": "c5e982133118c54c9e4696ee90ed48e40596f8238bd90ec3f064944c239a8066"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_motor_cradle.stl",
+      "ascii_stl": true,
+      "facet_count": 380,
+      "size_bytes": 74013,
+      "sha256": "2b1b020937d775320360707c6e28a507ce987c9add6f7421fa8e2ed0247a521d"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_pickup_wiper_mounts.stl",
+      "ascii_stl": true,
+      "facet_count": 96,
+      "size_bytes": 18757,
+      "sha256": "55054241903d7ae4585c67095655b0967ff3ecaabd44c45dfd5d26309adf4cb5"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_rear_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43747,
+      "sha256": "98678b81d4725ea40a9f71362d7d0a207ce14145c9eaef26a9c9b35a88b091a0"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_right_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11751,
+      "sha256": "ac912b1c0fa1f401fddfb1e5d0d9966f6b6f716e08e4dcf392092280e5f78f3d"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_shell_mount_boss_set.stl",
+      "ascii_stl": true,
+      "facet_count": 816,
+      "size_bytes": 163575,
+      "sha256": "b7fef190a53bd321822bd259d73e00cd50c8847e6b71db96a057c873873c6243"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_speaker_box.stl",
+      "ascii_stl": true,
+      "facet_count": 348,
+      "size_bytes": 67915,
+      "sha256": "8aaae188d09a720ca7d99c51b1ac8c7799fe940e65960d0794d7af32d876ae03"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_truck_bolster_01.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 118033,
+      "sha256": "387de7c3524cb3a129a76c4b6bae0cf7c12fb4aa74b7bdffdebb892a83e4be82"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_truck_bolster_02.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 118033,
+      "sha256": "468b5a215d099b8d47e641ae605bcd5575bbc56b65d8e90cfb13b1aa65011277"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_truck_bolster_03.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 118033,
+      "sha256": "36318e6be9f8822b1638423cd30cd584ba0917fe7e281c466dcc1e8bb3eeb3a9"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_truck_bolster_04.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 118033,
+      "sha256": "87852a28b01d23d7a04d902c5375de923292367a78f077bf2a892ac5388ba0be"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\center_turbine\\center_turbine_wire_retainers.stl",
+      "ascii_stl": true,
+      "facet_count": 144,
+      "size_bytes": 27939,
+      "sha256": "ae5e5df9ec1f2d44fd9795a5c9f73f854a25cf75fc118311cf2167b57caef081"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_chassis_base_plate.stl",
+      "ascii_stl": true,
+      "facet_count": 4660,
+      "size_bytes": 911037,
+      "sha256": "96f5d9f2972e46d82f33691ec4d43e803a10d94a8ca211b6a3489eab7f9e0929"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_cosmetic_sideframes.stl",
+      "ascii_stl": true,
+      "facet_count": 2664,
+      "size_bytes": 523863,
+      "sha256": "f3df2464205cbfc1a3da8a9b0d3114effc064af3c5b8396075174c175519123c"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_decoder_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 368,
+      "size_bytes": 71799,
+      "sha256": "1e9f1ec67093a578c21e874f097fa1e5a175c3e49933c79d7582efc5cd4e850f"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_front_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43743,
+      "sha256": "bf69598f59ec07e6b53f082e75d34126011506c7eb81ddec6c47822e545bdc0a"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_left_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11743,
+      "sha256": "248ce85671d8b43ab4e84c7f90d4363f9fdc1566fd72249c3cc944ddb010f7c3"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_lighting_tray.stl",
+      "ascii_stl": true,
+      "facet_count": 180,
+      "size_bytes": 34569,
+      "sha256": "1dd749cd84d3132f663f33f61c8e0a41d6b60dd3f2037c1289e3986152ba55cc"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_optional_power_truck_adapter.stl",
+      "ascii_stl": true,
+      "facet_count": 524,
+      "size_bytes": 101247,
+      "sha256": "3b2911b950250cff4c0d694b107c27a30b70ce1cdd6fd2c2d8ce9c340b5dcc96"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_pickup_wiper_mounts.stl",
+      "ascii_stl": true,
+      "facet_count": 96,
+      "size_bytes": 18751,
+      "sha256": "a3a8d32a5c2dbb630322c590568075e3da1e40f6fb4ec6f58e91fbfffddc33b6"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_rear_coupler_pocket.stl",
+      "ascii_stl": true,
+      "facet_count": 228,
+      "size_bytes": 43741,
+      "sha256": "2c123f9a46842e2fe83e0bdd5d0ce5c38a761fe2014b7341366080156c7090b5"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_right_ballast_box.stl",
+      "ascii_stl": true,
+      "facet_count": 60,
+      "size_bytes": 11745,
+      "sha256": "6f2fe156e77a6c2f6c713b907c98240e7e0b91769fde7f99dd40072e08e030f7"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_shell_mount_boss_set.stl",
+      "ascii_stl": true,
+      "facet_count": 816,
+      "size_bytes": 161025,
+      "sha256": "6d693398e61808499d9c608865453a41a98c9bc66bccbc8b43b9282fcc5ff203"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_speaker_box.stl",
+      "ascii_stl": true,
+      "facet_count": 348,
+      "size_bytes": 67477,
+      "sha256": "99e08df1e14e45c66b56f11af5fed03660daa565f351a2b68537836f86e6900d"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_truck_bolster_01.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 117835,
+      "sha256": "c543955a85bd6c24d4d86523800715475b67be01de6f3cd9c173e41ab7535d8f"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_truck_bolster_02.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 117835,
+      "sha256": "f0775fb6d820af376c4b5ca6187a2ba7ef4d2a654ef938a93cbaff436cdd24ee"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_truck_bolster_03.stl",
+      "ascii_stl": true,
+      "facet_count": 612,
+      "size_bytes": 117835,
+      "sha256": "24df236c35ec04d2170683b819c08af6eeae4c98a1e41c233ceb768bd6c85b4c"
+    },
+    {
+      "file": "exports\\stl\\chassis_parts\\coal_tender\\coal_tender_wire_retainers.stl",
+      "ascii_stl": true,
+      "facet_count": 144,
+      "size_bytes": 27933,
+      "sha256": "e30146cc3408fcc71884f05fa435c089d11baaedbc0afa202ae312d25542a5e2"
+    },
+    {
+      "file": "exports\\stl\\details\\up80_detail_sprue.stl",
+      "ascii_stl": true,
+      "facet_count": 2772,
+      "size_bytes": 546483,
+      "sha256": "b9448a7eedccc4d146dfb8940269c32f6f779ed82ead788bca81e6a008f3b088"
+    },
+    {
+      "file": "exports\\stl\\details\\up80_test_coupons.stl",
+      "ascii_stl": true,
+      "facet_count": 1356,
+      "size_bytes": 265089,
+      "sha256": "8f6a438d7e23b5bcb02e034e4a45b96a29be2284faa4839d8824b41af3c83394"
+    },
+    {
+      "file": "exports\\stl\\shells\\a_control_shell.stl",
+      "ascii_stl": true,
+      "facet_count": 2944,
+      "size_bytes": 590510,
+      "sha256": "96f108de2926b92a7311e36345068a5a7ff5871e1ec88ad556d5d6475ec837a2"
+    },
+    {
+      "file": "exports\\stl\\shells\\center_turbine_shell.stl",
+      "ascii_stl": true,
+      "facet_count": 2880,
+      "size_bytes": 575797,
+      "sha256": "8a673d39742125412a173d251561dce51c3ce0e1a0a990482673ef49f3644c2d"
+    },
+    {
+      "file": "exports\\stl\\shells\\coal_tender_shell.stl",
+      "ascii_stl": true,
+      "facet_count": 872,
+      "size_bytes": 173420,
+      "sha256": "d06fd337580fc838b5034ce63cd4f64c1ca47d6bf2234fc2f6371aeafd16be13"
+    }
+  ],
+  "shell_stl_files": [
+    "exports/stl/shells/a_control_shell.stl",
+    "exports/stl/shells/center_turbine_shell.stl",
+    "exports/stl/shells/coal_tender_shell.stl"
+  ],
+  "chassis_part_index": {
+    "a_control": [
+      "exports/stl/chassis_parts/a_control/a_control_chassis_base_plate.stl",
+      "exports/stl/chassis_parts/a_control/a_control_front_coupler_pocket.stl",
+      "exports/stl/chassis_parts/a_control/a_control_rear_coupler_pocket.stl",
+      "exports/stl/chassis_parts/a_control/a_control_decoder_tray.stl",
+      "exports/stl/chassis_parts/a_control/a_control_speaker_box.stl",
+      "exports/stl/chassis_parts/a_control/a_control_left_ballast_box.stl",
+      "exports/stl/chassis_parts/a_control/a_control_right_ballast_box.stl",
+      "exports/stl/chassis_parts/a_control/a_control_wire_retainers.stl",
+      "exports/stl/chassis_parts/a_control/a_control_shell_mount_boss_set.stl",
+      "exports/stl/chassis_parts/a_control/a_control_pickup_wiper_mounts.stl",
+      "exports/stl/chassis_parts/a_control/a_control_cosmetic_sideframes.stl",
+      "exports/stl/chassis_parts/a_control/a_control_lighting_tray.stl",
+      "exports/stl/chassis_parts/a_control/a_control_truck_bolster_01.stl",
+      "exports/stl/chassis_parts/a_control/a_control_truck_bolster_02.stl",
+      "exports/stl/chassis_parts/a_control/a_control_motor_cradle.stl"
+    ],
+    "center_turbine": [
+      "exports/stl/chassis_parts/center_turbine/center_turbine_chassis_base_plate.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_front_coupler_pocket.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_rear_coupler_pocket.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_decoder_tray.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_speaker_box.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_left_ballast_box.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_right_ballast_box.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_wire_retainers.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_shell_mount_boss_set.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_pickup_wiper_mounts.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_cosmetic_sideframes.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_lighting_tray.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_01.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_02.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_03.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_04.stl",
+      "exports/stl/chassis_parts/center_turbine/center_turbine_motor_cradle.stl"
+    ],
+    "coal_tender": [
+      "exports/stl/chassis_parts/coal_tender/coal_tender_chassis_base_plate.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_front_coupler_pocket.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_rear_coupler_pocket.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_decoder_tray.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_speaker_box.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_left_ballast_box.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_right_ballast_box.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_wire_retainers.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_shell_mount_boss_set.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_pickup_wiper_mounts.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_cosmetic_sideframes.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_lighting_tray.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_01.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_02.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_03.stl",
+      "exports/stl/chassis_parts/coal_tender/coal_tender_optional_power_truck_adapter.stl"
+    ]
+  },
+  "overall_length_check_mm": 790.870264064294,
+  "minimum_radius_mm": 609.6
+}

@@ -1,0 +1,73 @@
+{
+  "project": "HO Union Pacific #80 Coal Turbine",
+  "version": "v1.0.1",
+  "scale": 87.1,
+  "prototype_total_length_ft": 226.0,
+  "track": {
+    "gauge_mm": 16.5,
+    "minimum_radius_mm": 609.6,
+    "coupler_center_height_mm": 9.91
+  },
+  "shared": {
+    "rail_clearance_mm": 1.2,
+    "resin_wall_mm": 1.25,
+    "fdm_wall_mm": 1.8,
+    "chassis_plate_thickness_mm": 3.2,
+    "metal_plate_thickness_mm": 1.6,
+    "screw_boss_outer_dia_mm": 5.8,
+    "shell_screw_pilot_dia_mm": 1.6,
+    "coupler_screw_pilot_dia_mm": 2.2,
+    "kadee_242_box_lwh_mm": [11.1, 7.9, 3.2],
+    "decoder_envelope_lwh_mm": [35.0, 18.0, 6.0],
+    "speaker_a_lwh_mm": [28.0, 16.0, 9.0],
+    "speaker_turbine_lwh_mm": [30.0, 18.0, 10.0]
+  },
+  "units": {
+    "a_control": {
+      "display_name": "A/control unit",
+      "prototype_basis": "Modified ALCO PA-1 cab/control unit",
+      "over_coupler_length_mm": 229.8,
+      "shell_length_mm": 218.0,
+      "shell_width_mm": 36.8,
+      "shell_side_height_mm": 35.0,
+      "roof_rise_mm": 6.5,
+      "nose_length_mm": 43.0,
+      "chassis_length_mm": 210.0,
+      "chassis_width_mm": 31.5,
+      "truck_centers_mm": [-72.0, 72.0],
+      "truck_wheelbase_mm": 54.2,
+      "powered_ready": true,
+      "default_donor": "HO ALCO PA donor mechanism; Walthers Proto/Proto 2000 or Rapido PA/PB preferred if available"
+    },
+    "center_turbine": {
+      "display_name": "Center turbine unit",
+      "prototype_basis": "GN W-1-derived turbine/electric chassis body",
+      "over_coupler_length_mm": 351.0,
+      "shell_length_mm": 340.0,
+      "shell_width_mm": 38.4,
+      "shell_side_height_mm": 37.5,
+      "roof_rise_mm": 5.8,
+      "chassis_length_mm": 332.0,
+      "chassis_width_mm": 32.5,
+      "truck_centers_mm": [-124.0, -42.0, 42.0, 124.0],
+      "truck_wheelbase_mm": 44.0,
+      "powered_ready": true,
+      "default_donor": "Commercial powered trucks or NWSL Stanton-style drives under cosmetic W-1/turbine sideframes"
+    },
+    "coal_tender": {
+      "display_name": "Coal tender",
+      "prototype_basis": "UP Challenger 25-C-3/centipede coal tender rebuilt with pulverizer equipment",
+      "over_coupler_length_mm": 210.1,
+      "shell_length_mm": 200.0,
+      "shell_width_mm": 36.8,
+      "shell_side_height_mm": 30.0,
+      "roof_rise_mm": 0.0,
+      "chassis_length_mm": 194.0,
+      "chassis_width_mm": 31.0,
+      "truck_centers_mm": [-68.0, 20.0, 70.0],
+      "truck_wheelbase_mm": 34.0,
+      "powered_ready": false,
+      "default_donor": "Free-rolling HO tender trucks with optional pickup wipers; source keeps optional powered-truck envelope"
+    }
+  }
+}
