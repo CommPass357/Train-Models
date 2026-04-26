@@ -1,0 +1,451 @@
+HO Scale Union Pacific #80 Coal Turbine Chassis + Shell Plan,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:48 AM]Saturday, April 25, 2026 8:48 AM
+Summary,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:48 AM]Saturday, April 25, 2026 8:48 AM
+Build a powered HO scale three-unit Union Pacific #80 coal turbine set: modified Alco PA-style control unit, center turbine unit, and Challenger-style coal tender. Deliver parametric CAD source plus printable/exported STL/STEP files and a BOM. Optimize for resin-printed shells, commercial donor drive components, DCC sound, and reliable operation on 24-inch minimum radius curves.
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Reference basis: hybrid prototype/model approach using prototype facts, photos, and existing model proportions. Key sanity references include UP #80’s 1962 three-unit coal turbine configuration and 226 ft reported prototype length, plus MTH/Overland model information showing the A and center units powered with tender unpowered. Sources: Locomotive Wiki, MTH O scale #80, Brasstrains OMI HO listing.
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Key Changes,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Create a parametric CAD assembly with three separable units, shared reference planes, truck centers, coupler pockets, screw bosses, shell locating tabs, and removable roof/body sections for maintenance.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Use resin-print shell parts for visible bodies, grilles, vents, cab/nose details, tender body, and roof equipment; use metal or weighted chassis plates where possible for traction and stability.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Engineer two powered chassis units: A/control unit and center turbine unit. Tender is rolling/unpowered but wired for rear lighting and optional speaker/keep-alive space.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Design around commercial HO drive components: donor powered trucks, motors, flywheels, worms/towers, pickups, wheelsets, couplers, and DCC-friendly wiring harnesses. Custom CAD adapts donor mounting geometry rather than inventing gears from scratch.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Reserve electronics volume for DCC sound: main decoder, keep-alive, LEDs for headlights/Mars/markers/number boards/cab/interior, one diesel speaker in the A unit, and one turbine speaker in the center unit.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+CAD + Fabrication Specification,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Deliverables:,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Parametric source CAD for chassis, shells, detail sprues, and assembly constraints.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+STL files for resin-printable shell/detail parts.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+STEP files for chassis plates, mounts, and parts needing machining or future revision.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+BOM listing donor mechanisms, wheels/trucks, couplers, screws, LEDs, decoder, speakers, wire, weights, magnets or contacts, and print materials.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+HO scale target:,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Use 1:87.1 scaling.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Prototype 226 ft total length gives about 31.1 inches overall as the initial dimensional target, then reconcile against photos/model references.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Mechanical defaults:,
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+24-inch minimum radius.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Kadee-compatible coupler boxes.,
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Screw-fastened shells with hidden alignment tabs.,
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Truck swing and coupler gaps prioritized over exact close-coupling where operation requires it.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Shell defaults:,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Resin wall thickness: approximately 1.0-1.5 mm for large shells, thicker at screw bosses and tabs.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Separate fragile details such as handrails, horns, ladders, fans, grilles, and pilot details where printability or painting improves.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Clear glazing designed as separate inserts.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Test Plan,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Fit-check printed chassis blanks with donor trucks before final shell detail is locked.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:49 AM]Saturday, April 25, 2026 8:49 AM
+Verify each powered unit independently on straight track, 24-inch curves, S-curves, turnouts, and under slow-speed DCC control.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Confirm assembled three-unit train clears 24-inch curves without shell/truck/coupler interference.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Validate pickup continuity, decoder programming, lighting polarity, speaker fit, and shell removal without desoldering.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Print test coupons for grille depth, wall thickness, screw bosses, and paint/primer finish before committing full shells.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Assumptions,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Build is for a functional HO model, not a museum-accuracy brass master.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+The A/control and center turbine units are powered; tender is unpowered but rolling and wired.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Resin printing is available for shells; chassis weight comes from metal plates, added ballast, or donor frame mass.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+Exact donor mechanisms will be selected during implementation from available commercial HO parts, but the CAD must keep their mounting interfaces parametric so substitutions are possible.,
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+[8:50 AM]Saturday, April 25, 2026 8:50 AM
+lol
+:100:
+Click to react
+:thumbsup:
+Click to react
+:thumbsdown:
+Click to react
+Add Reaction
+Edit
+Forward
+More
+
+Message #general

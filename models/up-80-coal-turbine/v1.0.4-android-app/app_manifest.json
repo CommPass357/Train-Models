@@ -1,0 +1,13 @@
+{
+  "project": "UP #80 Android Catalog",
+  "version": "v1.0.4",
+  "sourceVersion": "v1.0.4",
+  "generatedUtc": "2026-04-26T13:36:36Z",
+  "package": "com.commpass.trainmodels.up80",
+  "totalParts": 53,
+  "shellParts": 3,
+  "chassisParts": 48,
+  "fullManufacturingZip": "https://github.com/CommPass357/Train-Models/releases/download/v1.0.4/up-80-coal-turbine-ho-v1.0.4.zip",
+  "appProject": "app-project",
+  "apkBuiltLocally": false
+}

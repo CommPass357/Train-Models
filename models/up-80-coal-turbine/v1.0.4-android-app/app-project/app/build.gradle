@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.commpass.trainmodels.up80'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.commpass.trainmodels.up80'
+        minSdk 23
+        targetSdk 35
+        versionCode 4
+        versionName '1.0.4'
+    }
+}

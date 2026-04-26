@@ -1,0 +1,1347 @@
+{
+  "project": "HO Union Pacific #80 Coal Turbine",
+  "version": "v1.0.4",
+  "generated_utc": "2026-04-26T13:35:04Z",
+  "scale": 87.1,
+  "target_overall_length_mm": 790.870264064294,
+  "unit_count": 3,
+  "chassis_count": 3,
+  "shell_file_count": 3,
+  "chassis_part_file_count": 48,
+  "mesh_bounds_mm": {
+    "a_control_shell": {
+      "min": [
+        -110.4,
+        -21.999999999999996,
+        0.0
+      ],
+      "max": [
+        109.0,
+        21.999999999999996,
+        45.07743512096364
+      ],
+      "size": [
+        219.4,
+        43.99999999999999,
+        45.07743512096364
+      ]
+    },
+    "a_control_chassis_base_plate": {
+      "min": [
+        -105.0,
+        -15.75,
+        0.0
+      ],
+      "max": [
+        104.99999999999999,
+        15.75,
+        4.8
+      ],
+      "size": [
+        210.0,
+        31.5,
+        4.8
+      ]
+    },
+    "a_control_front_coupler_pocket": {
+      "min": [
+        -6.9,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        9.0,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "a_control_rear_coupler_pocket": {
+      "min": [
+        -9.0,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        6.9,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "a_control_decoder_tray": {
+      "min": [
+        -19.5,
+        -10.5,
+        0.0
+      ],
+      "max": [
+        19.5,
+        10.5,
+        3.8000000000000003
+      ],
+      "size": [
+        39.0,
+        21.0,
+        3.8000000000000003
+      ]
+    },
+    "a_control_speaker_box": {
+      "min": [
+        -16.0,
+        -10.0,
+        0.0
+      ],
+      "max": [
+        16.0,
+        10.0,
+        8.0
+      ],
+      "size": [
+        32.0,
+        20.0,
+        8.0
+      ]
+    },
+    "a_control_left_ballast_box": {
+      "min": [
+        -21.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        21.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        42.0,
+        8.4,
+        7.2
+      ]
+    },
+    "a_control_right_ballast_box": {
+      "min": [
+        -21.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        21.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        42.0,
+        8.4,
+        7.2
+      ]
+    },
+    "a_control_wire_retainers": {
+      "min": [
+        -23.0,
+        -3.6,
+        0.0
+      ],
+      "max": [
+        23.0,
+        3.6,
+        3.8
+      ],
+      "size": [
+        46.0,
+        7.2,
+        3.8
+      ]
+    },
+    "a_control_shell_mount_boss_set": {
+      "min": [
+        -82.6,
+        -15.35,
+        0.0
+      ],
+      "max": [
+        82.6,
+        15.35,
+        4.4
+      ],
+      "size": [
+        165.2,
+        30.7,
+        4.4
+      ]
+    },
+    "a_control_pickup_wiper_mounts": {
+      "min": [
+        -27.0,
+        -10.875,
+        0.0
+      ],
+      "max": [
+        27.0,
+        10.875,
+        3.1
+      ],
+      "size": [
+        54.0,
+        21.75,
+        3.1
+      ]
+    },
+    "a_control_cosmetic_sideframes": {
+      "min": [
+        -29.85,
+        -17.775000000000002,
+        -0.0658174442774686
+      ],
+      "max": [
+        94.05000000000001,
+        17.775000000000002,
+        5.6
+      ],
+      "size": [
+        123.9,
+        35.550000000000004,
+        5.665817444277469
+      ]
+    },
+    "a_control_lighting_tray": {
+      "min": [
+        -14.0,
+        -5.0,
+        0.0
+      ],
+      "max": [
+        14.0,
+        5.0,
+        5.178730854217091
+      ],
+      "size": [
+        28.0,
+        10.0,
+        5.178730854217091
+      ]
+    },
+    "a_control_truck_bolster_01": {
+      "min": [
+        -13.5,
+        -12.75,
+        0.0
+      ],
+      "max": [
+        13.5,
+        12.75,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        25.5,
+        5.1000000000000005
+      ]
+    },
+    "a_control_truck_bolster_02": {
+      "min": [
+        -13.5,
+        -12.75,
+        0.0
+      ],
+      "max": [
+        13.5,
+        12.75,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        25.5,
+        5.1000000000000005
+      ]
+    },
+    "a_control_motor_cradle": {
+      "min": [
+        -32.0,
+        -7.0,
+        0.0
+      ],
+      "max": [
+        32.0,
+        7.0,
+        5.5
+      ],
+      "size": [
+        64.0,
+        14.0,
+        5.5
+      ]
+    },
+    "a_control_split_chassis_reference": {
+      "min": [
+        0.9499999999999993,
+        2.0,
+        -0.0658174442774686
+      ],
+      "max": [
+        238.95,
+        202.25,
+        8.0
+      ],
+      "size": [
+        238.0,
+        200.25,
+        8.065817444277469
+      ]
+    },
+    "center_turbine_shell": {
+      "min": [
+        -170.0,
+        -22.799999999999997,
+        0.0
+      ],
+      "max": [
+        170.0,
+        22.799999999999997,
+        48.8
+      ],
+      "size": [
+        340.0,
+        45.599999999999994,
+        48.8
+      ]
+    },
+    "center_turbine_chassis_base_plate": {
+      "min": [
+        -166.0,
+        -16.25,
+        0.0
+      ],
+      "max": [
+        165.99999999999997,
+        16.250000000000004,
+        4.8
+      ],
+      "size": [
+        332.0,
+        32.5,
+        4.8
+      ]
+    },
+    "center_turbine_front_coupler_pocket": {
+      "min": [
+        -6.9,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        9.0,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "center_turbine_rear_coupler_pocket": {
+      "min": [
+        -9.0,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        6.9,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "center_turbine_decoder_tray": {
+      "min": [
+        -19.5,
+        -10.5,
+        0.0
+      ],
+      "max": [
+        19.5,
+        10.5,
+        3.8000000000000003
+      ],
+      "size": [
+        39.0,
+        21.0,
+        3.8000000000000003
+      ]
+    },
+    "center_turbine_speaker_box": {
+      "min": [
+        -18.0,
+        -10.0,
+        0.0
+      ],
+      "max": [
+        18.0,
+        10.0,
+        8.0
+      ],
+      "size": [
+        36.0,
+        20.0,
+        8.0
+      ]
+    },
+    "center_turbine_left_ballast_box": {
+      "min": [
+        -29.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        29.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        58.0,
+        8.4,
+        7.2
+      ]
+    },
+    "center_turbine_right_ballast_box": {
+      "min": [
+        -29.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        29.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        58.0,
+        8.4,
+        7.2
+      ]
+    },
+    "center_turbine_wire_retainers": {
+      "min": [
+        -23.0,
+        -3.6,
+        0.0
+      ],
+      "max": [
+        23.0,
+        3.6,
+        3.8
+      ],
+      "size": [
+        46.0,
+        7.2,
+        3.8
+      ]
+    },
+    "center_turbine_shell_mount_boss_set": {
+      "min": [
+        -143.6,
+        -15.85,
+        0.0
+      ],
+      "max": [
+        143.6,
+        15.85,
+        4.4
+      ],
+      "size": [
+        287.2,
+        31.7,
+        4.4
+      ]
+    },
+    "center_turbine_pickup_wiper_mounts": {
+      "min": [
+        -27.0,
+        -11.125,
+        0.0
+      ],
+      "max": [
+        27.0,
+        11.125,
+        3.1
+      ],
+      "size": [
+        54.0,
+        22.25,
+        3.1
+      ]
+    },
+    "center_turbine_cosmetic_sideframes": {
+      "min": [
+        -24.75,
+        -18.275000000000002,
+        -0.0658174442774686
+      ],
+      "max": [
+        186.75,
+        18.275000000000002,
+        5.6
+      ],
+      "size": [
+        211.5,
+        36.550000000000004,
+        5.665817444277469
+      ]
+    },
+    "center_turbine_lighting_tray": {
+      "min": [
+        -14.0,
+        -5.0,
+        0.0
+      ],
+      "max": [
+        14.0,
+        5.0,
+        5.178730854217091
+      ],
+      "size": [
+        28.0,
+        10.0,
+        5.178730854217091
+      ]
+    },
+    "center_turbine_truck_bolster_01": {
+      "min": [
+        -13.5,
+        -13.25,
+        0.0
+      ],
+      "max": [
+        13.5,
+        13.25,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        26.5,
+        5.1000000000000005
+      ]
+    },
+    "center_turbine_truck_bolster_02": {
+      "min": [
+        -13.5,
+        -13.25,
+        0.0
+      ],
+      "max": [
+        13.5,
+        13.25,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        26.5,
+        5.1000000000000005
+      ]
+    },
+    "center_turbine_truck_bolster_03": {
+      "min": [
+        -13.5,
+        -13.25,
+        0.0
+      ],
+      "max": [
+        13.5,
+        13.25,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        26.5,
+        5.1000000000000005
+      ]
+    },
+    "center_turbine_truck_bolster_04": {
+      "min": [
+        -13.5,
+        -13.25,
+        0.0
+      ],
+      "max": [
+        13.5,
+        13.25,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        26.5,
+        5.1000000000000005
+      ]
+    },
+    "center_turbine_motor_cradle": {
+      "min": [
+        -40.0,
+        -7.0,
+        0.0
+      ],
+      "max": [
+        40.0,
+        7.0,
+        5.5
+      ],
+      "size": [
+        80.0,
+        14.0,
+        5.5
+      ]
+    },
+    "center_turbine_split_chassis_reference": {
+      "min": [
+        2.0,
+        2.0,
+        -0.0658174442774686
+      ],
+      "max": [
+        334.0,
+        264.90000000000003,
+        8.0
+      ],
+      "size": [
+        332.0,
+        262.90000000000003,
+        8.065817444277469
+      ]
+    },
+    "coal_tender_shell": {
+      "min": [
+        -100.0,
+        -19.724999999999998,
+        0.0
+      ],
+      "max": [
+        100.94999999999999,
+        19.724999999999998,
+        48.0
+      ],
+      "size": [
+        200.95,
+        39.449999999999996,
+        48.0
+      ]
+    },
+    "coal_tender_chassis_base_plate": {
+      "min": [
+        -97.0,
+        -15.5,
+        0.0
+      ],
+      "max": [
+        97.0,
+        15.499999999999998,
+        4.8
+      ],
+      "size": [
+        194.0,
+        31.0,
+        4.8
+      ]
+    },
+    "coal_tender_front_coupler_pocket": {
+      "min": [
+        -6.9,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        9.0,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "coal_tender_rear_coupler_pocket": {
+      "min": [
+        -9.0,
+        -4.5,
+        0.0
+      ],
+      "max": [
+        6.9,
+        4.5,
+        5.0
+      ],
+      "size": [
+        15.9,
+        9.0,
+        5.0
+      ]
+    },
+    "coal_tender_decoder_tray": {
+      "min": [
+        -19.5,
+        -10.5,
+        0.0
+      ],
+      "max": [
+        19.5,
+        10.5,
+        3.8000000000000003
+      ],
+      "size": [
+        39.0,
+        21.0,
+        3.8000000000000003
+      ]
+    },
+    "coal_tender_speaker_box": {
+      "min": [
+        -16.0,
+        -10.0,
+        0.0
+      ],
+      "max": [
+        16.0,
+        10.0,
+        8.0
+      ],
+      "size": [
+        32.0,
+        20.0,
+        8.0
+      ]
+    },
+    "coal_tender_left_ballast_box": {
+      "min": [
+        -21.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        21.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        42.0,
+        8.4,
+        7.2
+      ]
+    },
+    "coal_tender_right_ballast_box": {
+      "min": [
+        -21.0,
+        -4.2,
+        0.0
+      ],
+      "max": [
+        21.0,
+        4.2,
+        7.2
+      ],
+      "size": [
+        42.0,
+        8.4,
+        7.2
+      ]
+    },
+    "coal_tender_wire_retainers": {
+      "min": [
+        -23.0,
+        -3.6,
+        0.0
+      ],
+      "max": [
+        23.0,
+        3.6,
+        3.8
+      ],
+      "size": [
+        46.0,
+        7.2,
+        3.8
+      ]
+    },
+    "coal_tender_shell_mount_boss_set": {
+      "min": [
+        -74.6,
+        -15.1,
+        0.0
+      ],
+      "max": [
+        74.6,
+        15.1,
+        4.4
+      ],
+      "size": [
+        149.2,
+        30.2,
+        4.4
+      ]
+    },
+    "coal_tender_pickup_wiper_mounts": {
+      "min": [
+        -27.0,
+        -10.75,
+        0.0
+      ],
+      "max": [
+        27.0,
+        10.75,
+        3.1
+      ],
+      "size": [
+        54.0,
+        21.5,
+        3.1
+      ]
+    },
+    "coal_tender_cosmetic_sideframes": {
+      "min": [
+        -19.75,
+        -17.525000000000002,
+        -0.0658174442774686
+      ],
+      "max": [
+        107.75,
+        17.525000000000002,
+        5.6
+      ],
+      "size": [
+        127.5,
+        35.050000000000004,
+        5.665817444277469
+      ]
+    },
+    "coal_tender_lighting_tray": {
+      "min": [
+        -14.0,
+        -5.0,
+        0.0
+      ],
+      "max": [
+        14.0,
+        5.0,
+        5.178730854217091
+      ],
+      "size": [
+        28.0,
+        10.0,
+        5.178730854217091
+      ]
+    },
+    "coal_tender_truck_bolster_01": {
+      "min": [
+        -13.5,
+        -12.5,
+        0.0
+      ],
+      "max": [
+        13.5,
+        12.5,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        25.0,
+        5.1000000000000005
+      ]
+    },
+    "coal_tender_truck_bolster_02": {
+      "min": [
+        -13.5,
+        -12.5,
+        0.0
+      ],
+      "max": [
+        13.5,
+        12.5,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        25.0,
+        5.1000000000000005
+      ]
+    },
+    "coal_tender_truck_bolster_03": {
+      "min": [
+        -13.5,
+        -12.5,
+        0.0
+      ],
+      "max": [
+        13.5,
+        12.5,
+        5.1000000000000005
+      ],
+      "size": [
+        27.0,
+        25.0,
+        5.1000000000000005
+      ]
+    },
+    "coal_tender_optional_power_truck_adapter": {
+      "min": [
+        -17.0,
+        -9.0,
+        0.0
+      ],
+      "max": [
+        17.0,
+        9.0,
+        3.4
+      ],
+      "size": [
+        34.0,
+        18.0,
+        3.4
+      ]
+    },
+    "coal_tender_split_chassis_reference": {
+      "min": [
+        2.0,
+        2.0,
+        -0.0658174442774686
+      ],
+      "max": [
+        246.75,
+        200.25,
+        8.0
+      ],
+      "size": [
+        244.75,
+        198.25,
+        8.065817444277469
+      ]
+    },
+    "up80_detail_sprue": {
+      "min": [
+        -90.0,
+        -35.5,
+        0.0
+      ],
+      "max": [
+        90.0,
+        38.5,
+        14.5
+      ],
+      "size": [
+        180.0,
+        74.0,
+        14.5
+      ]
+    },
+    "up80_test_coupons": {
+      "min": [
+        -59.0,
+        -21.0,
+        -2.0250000000000004
+      ],
+      "max": [
+        59.0,
+        28.25,
+        10.0
+      ],
+      "size": [
+        118.0,
+        49.25,
+        12.025
+      ]
+    }
+  },
+  "files": [
+    {
+      "path": "docs/BOM.md",
+      "size_bytes": 1597,
+      "sha256": "49e2b4d743956040762b67798c1ce26e428a51be2b02d54ae8013cf0171f46b3"
+    },
+    {
+      "path": "docs/BUILD_GUIDE.md",
+      "size_bytes": 1208,
+      "sha256": "1ebf7de5648d394330cac9953e6dae19b02d273a48688db9dc877a110209a361"
+    },
+    {
+      "path": "docs/CHASSIS_PARTS.md",
+      "size_bytes": 4234,
+      "sha256": "ab7803d9f8a55b44a2cafbe0f081d672fbded9abb0bd91b9f53f606c1ddd82d5"
+    },
+    {
+      "path": "docs/PAINT_AND_DECAL_PLAN.md",
+      "size_bytes": 1115,
+      "sha256": "1370565375aa90ba0996ca1efabc83cc288996600f8d81a3323ecb7cfd9ca53f"
+    },
+    {
+      "path": "docs/RESEARCH_NOTES.md",
+      "size_bytes": 1521,
+      "sha256": "84172aa640610614e5c5f91f6e5bf7e917cbec09953e868b69b8a0d10ffcce69"
+    },
+    {
+      "path": "exports/3mf/a_control_shell_and_split_chassis_print_set.3mf",
+      "size_bytes": 161759,
+      "sha256": "af3f4011c1c866493e8607b17a268ccd014feb4d6540af7cbdaac36fcae26755"
+    },
+    {
+      "path": "exports/3mf/center_turbine_shell_and_split_chassis_print_set.3mf",
+      "size_bytes": 234205,
+      "sha256": "da983ff5ddbeb34ea5eac3cb84233c0d10a7dda45f921a770d98b249e269fec2"
+    },
+    {
+      "path": "exports/3mf/coal_tender_shell_and_split_chassis_print_set.3mf",
+      "size_bytes": 144862,
+      "sha256": "fbdbb1a69cb894826480d3d3e7c8499a19529e26ace0d6ce109a2f57d03811d6"
+    },
+    {
+      "path": "exports/dxf/up80_chassis_plates.dxf",
+      "size_bytes": 2195,
+      "sha256": "7920aa21c7cda929dfafe1ad3f4f4626ab9caa082d9ae161a0f67ab0226c411d"
+    },
+    {
+      "path": "exports/step/a_control_split_chassis_reference.step",
+      "size_bytes": 5201716,
+      "sha256": "b41b01d6ebbda54e202d2aefef16addb43e183cf7618a33ff19f479aec22e607"
+    },
+    {
+      "path": "exports/step/center_turbine_split_chassis_reference.step",
+      "size_bytes": 8320417,
+      "sha256": "1d81f07a71646852638e5acd69c850517c6ff0066d5f1c64f77c369953fe4564"
+    },
+    {
+      "path": "exports/step/coal_tender_split_chassis_reference.step",
+      "size_bytes": 6026884,
+      "sha256": "7ec3e12c9e1159e0398ab245cc9a577cd559da17a02af104a2cc12ea25e0e06c"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_chassis_base_plate.stl",
+      "size_bytes": 1051715,
+      "sha256": "09fbe39f7bf4041923293388834910babb3181c3d5d37333182ff9f5f1d483bb"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_cosmetic_sideframes.stl",
+      "size_bytes": 217179,
+      "sha256": "eabe621e453fa2e09b36dbbf24d156f74d76bcb2546d1b04521c11afb6ba98c8"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_decoder_tray.stl",
+      "size_bytes": 71795,
+      "sha256": "2ef32864223221904c056ed7be9320269623a922f54f7d703be335737e81d9fb"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_front_coupler_pocket.stl",
+      "size_bytes": 43739,
+      "sha256": "b9c71bfe9a076fbaaa85c2f5cff7d96ead323fb2135d770cbf6ba858e9907928"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_left_ballast_box.stl",
+      "size_bytes": 11739,
+      "sha256": "ef5c10537b9075eab1b158e7665e85686e6a494b79d1cee779886445aed39941"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_lighting_tray.stl",
+      "size_bytes": 34565,
+      "sha256": "6551a6bda5f878108976442d712b04a4d8a99404e637ee4bb8f4aa2d54fc04e3"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_motor_cradle.stl",
+      "size_bytes": 74003,
+      "sha256": "a38382754575c45419fc7472da6ca75a3fab7141d3d8c28e3215ff48a167d122"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_pickup_wiper_mounts.stl",
+      "size_bytes": 18747,
+      "sha256": "80b124fac79be4584a0bce78b6dbd9d2ad205835a6ba67e1b83b3bdb49863cba"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_rear_coupler_pocket.stl",
+      "size_bytes": 43737,
+      "sha256": "1cfff923bec0b34b49338a0288db4174111683f982a26cb85b4729e2932f2271"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_right_ballast_box.stl",
+      "size_bytes": 11741,
+      "sha256": "a39e63ff344f9d0be6bde11930a812aeccd6c00081c7ae26471593bb601808e0"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_shell_mount_boss_set.stl",
+      "size_bytes": 161021,
+      "sha256": "14b141e0bda689c00976aa2e29a30e1e187565df9271080a060794f17d95fed1"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_speaker_box.stl",
+      "size_bytes": 67473,
+      "sha256": "f0903c1fb4157ca591b2d4e871fad1fff99e5bc15167ecedc6b141ed2fdf6294"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_truck_bolster_01.stl",
+      "size_bytes": 117927,
+      "sha256": "9e5aeb2a628069b97d695e7458ed8db0e51cbbede781465d2d88d1111421d6cb"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_truck_bolster_02.stl",
+      "size_bytes": 117927,
+      "sha256": "2d6eb7199d98f5fc54a8c0680d1d085dfdc915ffa69576eff21b26da78626dd3"
+    },
+    {
+      "path": "exports/stl/chassis_parts/a_control/a_control_wire_retainers.stl",
+      "size_bytes": 27929,
+      "sha256": "8b697a7b2904ed627ed6d2b11b411bc05c6f7f58b7fc88010ea633e55cf07200"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_chassis_base_plate.stl",
+      "size_bytes": 1661243,
+      "sha256": "46ee6b2306768e3fb34b20763bbe48c31e93dc18da545c9b06384c494017fb2f"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_cosmetic_sideframes.stl",
+      "size_bytes": 569357,
+      "sha256": "9393ecd9e87ffc97cc45214601535a1be0e9f7cd00c3783eceb3f0f07d156b7a"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_decoder_tray.stl",
+      "size_bytes": 71805,
+      "sha256": "ed456ab705276d3e7609f4b2c37b93e903b2f944004d535a6ad42f9494ef2db1"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_front_coupler_pocket.stl",
+      "size_bytes": 43749,
+      "sha256": "1171186a357697a7a99969b3d51286ac9b99141c7e5c6bec80061fafa43416e7"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_left_ballast_box.stl",
+      "size_bytes": 11749,
+      "sha256": "f3fc8af5fb618447bece3f47e108d54cc336bc244068eeb894f500299ab9f010"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_lighting_tray.stl",
+      "size_bytes": 34575,
+      "sha256": "c5e982133118c54c9e4696ee90ed48e40596f8238bd90ec3f064944c239a8066"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_motor_cradle.stl",
+      "size_bytes": 74013,
+      "sha256": "2b1b020937d775320360707c6e28a507ce987c9add6f7421fa8e2ed0247a521d"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_pickup_wiper_mounts.stl",
+      "size_bytes": 18757,
+      "sha256": "55054241903d7ae4585c67095655b0967ff3ecaabd44c45dfd5d26309adf4cb5"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_rear_coupler_pocket.stl",
+      "size_bytes": 43747,
+      "sha256": "98678b81d4725ea40a9f71362d7d0a207ce14145c9eaef26a9c9b35a88b091a0"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_right_ballast_box.stl",
+      "size_bytes": 11751,
+      "sha256": "ac912b1c0fa1f401fddfb1e5d0d9966f6b6f716e08e4dcf392092280e5f78f3d"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_shell_mount_boss_set.stl",
+      "size_bytes": 163575,
+      "sha256": "b7fef190a53bd321822bd259d73e00cd50c8847e6b71db96a057c873873c6243"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_speaker_box.stl",
+      "size_bytes": 67915,
+      "sha256": "8aaae188d09a720ca7d99c51b1ac8c7799fe940e65960d0794d7af32d876ae03"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_01.stl",
+      "size_bytes": 118033,
+      "sha256": "387de7c3524cb3a129a76c4b6bae0cf7c12fb4aa74b7bdffdebb892a83e4be82"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_02.stl",
+      "size_bytes": 118033,
+      "sha256": "468b5a215d099b8d47e641ae605bcd5575bbc56b65d8e90cfb13b1aa65011277"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_03.stl",
+      "size_bytes": 118033,
+      "sha256": "36318e6be9f8822b1638423cd30cd584ba0917fe7e281c466dcc1e8bb3eeb3a9"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_04.stl",
+      "size_bytes": 118033,
+      "sha256": "87852a28b01d23d7a04d902c5375de923292367a78f077bf2a892ac5388ba0be"
+    },
+    {
+      "path": "exports/stl/chassis_parts/center_turbine/center_turbine_wire_retainers.stl",
+      "size_bytes": 27939,
+      "sha256": "ae5e5df9ec1f2d44fd9795a5c9f73f854a25cf75fc118311cf2167b57caef081"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_chassis_base_plate.stl",
+      "size_bytes": 911037,
+      "sha256": "96f5d9f2972e46d82f33691ec4d43e803a10d94a8ca211b6a3489eab7f9e0929"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_cosmetic_sideframes.stl",
+      "size_bytes": 523863,
+      "sha256": "f3df2464205cbfc1a3da8a9b0d3114effc064af3c5b8396075174c175519123c"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_decoder_tray.stl",
+      "size_bytes": 71799,
+      "sha256": "1e9f1ec67093a578c21e874f097fa1e5a175c3e49933c79d7582efc5cd4e850f"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_front_coupler_pocket.stl",
+      "size_bytes": 43743,
+      "sha256": "bf69598f59ec07e6b53f082e75d34126011506c7eb81ddec6c47822e545bdc0a"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_left_ballast_box.stl",
+      "size_bytes": 11743,
+      "sha256": "248ce85671d8b43ab4e84c7f90d4363f9fdc1566fd72249c3cc944ddb010f7c3"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_lighting_tray.stl",
+      "size_bytes": 34569,
+      "sha256": "1dd749cd84d3132f663f33f61c8e0a41d6b60dd3f2037c1289e3986152ba55cc"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_optional_power_truck_adapter.stl",
+      "size_bytes": 101247,
+      "sha256": "3b2911b950250cff4c0d694b107c27a30b70ce1cdd6fd2c2d8ce9c340b5dcc96"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_pickup_wiper_mounts.stl",
+      "size_bytes": 18751,
+      "sha256": "a3a8d32a5c2dbb630322c590568075e3da1e40f6fb4ec6f58e91fbfffddc33b6"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_rear_coupler_pocket.stl",
+      "size_bytes": 43741,
+      "sha256": "2c123f9a46842e2fe83e0bdd5d0ce5c38a761fe2014b7341366080156c7090b5"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_right_ballast_box.stl",
+      "size_bytes": 11745,
+      "sha256": "6f2fe156e77a6c2f6c713b907c98240e7e0b91769fde7f99dd40072e08e030f7"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_shell_mount_boss_set.stl",
+      "size_bytes": 161025,
+      "sha256": "6d693398e61808499d9c608865453a41a98c9bc66bccbc8b43b9282fcc5ff203"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_speaker_box.stl",
+      "size_bytes": 67477,
+      "sha256": "99e08df1e14e45c66b56f11af5fed03660daa565f351a2b68537836f86e6900d"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_01.stl",
+      "size_bytes": 117835,
+      "sha256": "c543955a85bd6c24d4d86523800715475b67be01de6f3cd9c173e41ab7535d8f"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_02.stl",
+      "size_bytes": 117835,
+      "sha256": "f0775fb6d820af376c4b5ca6187a2ba7ef4d2a654ef938a93cbaff436cdd24ee"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_03.stl",
+      "size_bytes": 117835,
+      "sha256": "24df236c35ec04d2170683b819c08af6eeae4c98a1e41c233ceb768bd6c85b4c"
+    },
+    {
+      "path": "exports/stl/chassis_parts/coal_tender/coal_tender_wire_retainers.stl",
+      "size_bytes": 27933,
+      "sha256": "e30146cc3408fcc71884f05fa435c089d11baaedbc0afa202ae312d25542a5e2"
+    },
+    {
+      "path": "exports/stl/details/up80_detail_sprue.stl",
+      "size_bytes": 546483,
+      "sha256": "b9448a7eedccc4d146dfb8940269c32f6f779ed82ead788bca81e6a008f3b088"
+    },
+    {
+      "path": "exports/stl/details/up80_test_coupons.stl",
+      "size_bytes": 265089,
+      "sha256": "8f6a438d7e23b5bcb02e034e4a45b96a29be2284faa4839d8824b41af3c83394"
+    },
+    {
+      "path": "exports/stl/shells/a_control_shell.stl",
+      "size_bytes": 2173240,
+      "sha256": "76e86693f39365c43b55408060c171f8bcbc95f8c47c9eeab0c444e8d43131aa"
+    },
+    {
+      "path": "exports/stl/shells/center_turbine_shell.stl",
+      "size_bytes": 3193435,
+      "sha256": "3c551ae7ba20f235f904a305940f6f3578c84963b5ca4009ab498010c9b90155"
+    },
+    {
+      "path": "exports/stl/shells/coal_tender_shell.stl",
+      "size_bytes": 1510110,
+      "sha256": "5f88ff19ebe162fd99a36530ee1dfc10cf4eb2b535d9c200fab126c677a0a75a"
+    },
+    {
+      "path": "exports/svg/up80_decal_placement.svg",
+      "size_bytes": 1189,
+      "sha256": "9c4096ed9962f8abb536244e2fd1e76768254ebd746bdd71e24f34531ec65d4a"
+    },
+    {
+      "path": "exports/svg/up80_glazing_masks.svg",
+      "size_bytes": 506,
+      "sha256": "3e91adbf65c2e3520d076c419bf9cc40198288d7e5c682679da066a49eae4b9b"
+    },
+    {
+      "path": "exports/svg/up80_paint_masks.svg",
+      "size_bytes": 1208,
+      "sha256": "5257b79cfabff3e43c1418ad9c21170e402470a727391fd5f69189d0c08dcc85"
+    },
+    {
+      "path": "manifest.json",
+      "size_bytes": 29766,
+      "sha256": "fbc89367327ef334f5ee468a1d314767a15dcef5bb2b9f99e54c82ef5002e005"
+    },
+    {
+      "path": "NOTICE.md",
+      "size_bytes": 223,
+      "sha256": "25e27f692d51c2e94346ad1d693fc1ec204d4010a856c4040d2daac64859c982"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 1429,
+      "sha256": "131f0efae2a7fc312c6f7a6aa0321274b608af99a480bd151c269a21052e5853"
+    },
+    {
+      "path": "RELEASE_NOTES.md",
+      "size_bytes": 1038,
+      "sha256": "a6141857389f6076efe07abdc0bcedea58c899577abdc1cbb7137a7944ea19ca"
+    },
+    {
+      "path": "source/generate_package.py",
+      "size_bytes": 62774,
+      "sha256": "96b11565e9877627925d284c1eacff5e9099e806567fa9b99fdeaecef5ea8f88"
+    },
+    {
+      "path": "source/original_prompt.txt",
+      "size_bytes": 10122,
+      "sha256": "02b5ccff587b3c732269426d8153422b1488d4c1874ff28007b61fa628abb7f5"
+    },
+    {
+      "path": "source/up80_parameters.json",
+      "size_bytes": 2601,
+      "sha256": "686814d7ef3baabfc688493632b4b6fe6f48293ea795589e4dc1d989603d219e"
+    },
+    {
+      "path": "validation_report.json",
+      "size_bytes": 18814,
+      "sha256": "a8b1b53fd60d69f2df299be2ec6750ec7ba4c2856de3cf8a4e90f1c0248327a9"
+    }
+  ]
+}
