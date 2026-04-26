@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>UP #80 Android Preview v1.0.2</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <section class="viewer-wrap">
+      <canvas id="viewer" aria-label="3D preview canvas"></canvas>
+      <div class="hud">
+        <div id="viewTitle">Three Shell Consist</div>
+        <div id="viewMeta">drag rotate | pinch zoom</div>
+      </div>
+    </section>
+    <section class="controls">
+      <div class="button-row">
+        <button id="shellsBtn" type="button">3 Shells</button>
+        <button id="fullKitBtn" type="button">Full Kit</button>
+        <button id="resetBtn" type="button">Reset</button>
+        <button id="bgBtn" type="button">Background</button>
+      </div>
+      <label class="part-label" for="partSelect">Part preview</label>
+      <select id="partSelect"></select>
+      <div id="partInfo" class="part-info"></div>
+      <details>
+        <summary>Android notes</summary>
+        <p>This viewer uses simplified preview meshes from v1.0.1. Use the v1.0.1 release for printable STL, STEP, DXF, and build documents.</p>
+      </details>
+    </section>
+  </main>
+  <script src="data/preview_meshes.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1785 @@
+{
+  "project": "HO Union Pacific #80 Coal Turbine Android Preview",
+  "version": "v1.0.2",
+  "sourceVersion": "v1.0.1",
+  "generatedUtc": "2026-04-26T04:29:29Z",
+  "defaultView": [
+    "a_control_shell",
+    "center_turbine_shell",
+    "coal_tender_shell"
+  ],
+  "shellConsistOffsets": {
+    "a_control_shell": [
+      -287.7,
+      0,
+      0
+    ],
+    "center_turbine_shell": [
+      0,
+      0,
+      0
+    ],
+    "coal_tender_shell": [
+      278.475,
+      0,
+      0
+    ]
+  },
+  "links": {
+    "manufacturingRelease": "https://github.com/CommPass357/Train-Models/releases/tag/v1.0.1",
+    "manufacturingZip": "https://github.com/CommPass357/Train-Models/releases/download/v1.0.1/up-80-coal-turbine-ho-v1.0.1.zip",
+    "chassisPartsDoc": "https://github.com/CommPass357/Train-Models/blob/main/models/up-80-coal-turbine/v1.0.1/docs/CHASSIS_PARTS.md"
+  },
+  "parts": [
+    {
+      "id": "a_control_shell",
+      "label": "A Control Shell",
+      "group": "Shells",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/shells/a_control_shell.stl",
+      "sourceTriangles": 2944,
+      "previewTriangles": 1472,
+      "bounds": {
+        "min": [
+          -110.4,
+          -19.525,
+          0.0
+        ],
+        "max": [
+          109.0,
+          19.525,
+          43.05
+        ],
+        "size": [
+          219.4,
+          39.05,
+          43.05
+        ],
+        "center": [
+          -0.7000000000000028,
+          0.0,
+          21.525
+        ]
+      },
+      "color": "#f6c54d",
+      "order": 0
+    },
+    {
+      "id": "center_turbine_shell",
+      "label": "Center Turbine Shell",
+      "group": "Shells",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/shells/center_turbine_shell.stl",
+      "sourceTriangles": 2880,
+      "previewTriangles": 1440,
+      "bounds": {
+        "min": [
+          -170.0,
+          -20.4,
+          0.0
+        ],
+        "max": [
+          170.0,
+          20.4,
+          48.8
+        ],
+        "size": [
+          340.0,
+          40.8,
+          48.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          24.4
+        ]
+      },
+      "color": "#d1d6d0",
+      "order": 1
+    },
+    {
+      "id": "coal_tender_shell",
+      "label": "Coal Tender Shell",
+      "group": "Shells",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/shells/coal_tender_shell.stl",
+      "sourceTriangles": 872,
+      "previewTriangles": 872,
+      "bounds": {
+        "min": [
+          -100.0,
+          -19.575,
+          0.0
+        ],
+        "max": [
+          100.95,
+          19.575,
+          47.0
+        ],
+        "size": [
+          200.95,
+          39.15,
+          47.0
+        ],
+        "center": [
+          0.4750000000000014,
+          0.0,
+          23.5
+        ]
+      },
+      "color": "#2b2d30",
+      "order": 2
+    },
+    {
+      "id": "a_control_chassis_base_plate",
+      "label": "A Control Chassis Base Plate",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_chassis_base_plate.stl",
+      "sourceTriangles": 5380,
+      "previewTriangles": 897,
+      "bounds": {
+        "min": [
+          -105.0,
+          -15.75,
+          0.0
+        ],
+        "max": [
+          105.0,
+          15.75,
+          4.8
+        ],
+        "size": [
+          210.0,
+          31.5,
+          4.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.4
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 3
+    },
+    {
+      "id": "a_control_front_coupler_pocket",
+      "label": "A Control Front Coupler Pocket",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_front_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -6.9,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          9.0,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 4
+    },
+    {
+      "id": "a_control_rear_coupler_pocket",
+      "label": "A Control Rear Coupler Pocket",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_rear_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -9.0,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          6.9,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          -1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 5
+    },
+    {
+      "id": "a_control_decoder_tray",
+      "label": "A Control Decoder Tray",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_decoder_tray.stl",
+      "sourceTriangles": 368,
+      "previewTriangles": 368,
+      "bounds": {
+        "min": [
+          -19.5,
+          -10.5,
+          0.0
+        ],
+        "max": [
+          19.5,
+          10.5,
+          3.8
+        ],
+        "size": [
+          39.0,
+          21.0,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 6
+    },
+    {
+      "id": "a_control_speaker_box",
+      "label": "A Control Speaker Box",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_speaker_box.stl",
+      "sourceTriangles": 348,
+      "previewTriangles": 348,
+      "bounds": {
+        "min": [
+          -16.0,
+          -10.0,
+          0.0
+        ],
+        "max": [
+          16.0,
+          10.0,
+          8.0
+        ],
+        "size": [
+          32.0,
+          20.0,
+          8.0
+        ],
+        "center": [
+          0.0,
+          0.0,
+          4.0
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 7
+    },
+    {
+      "id": "a_control_left_ballast_box",
+      "label": "A Control Left Ballast Box",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_left_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -21.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          21.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          42.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 8
+    },
+    {
+      "id": "a_control_right_ballast_box",
+      "label": "A Control Right Ballast Box",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_right_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -21.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          21.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          42.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 9
+    },
+    {
+      "id": "a_control_wire_retainers",
+      "label": "A Control Wire Retainers",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_wire_retainers.stl",
+      "sourceTriangles": 144,
+      "previewTriangles": 144,
+      "bounds": {
+        "min": [
+          -23.0,
+          -3.6,
+          0.0
+        ],
+        "max": [
+          23.0,
+          3.6,
+          3.8
+        ],
+        "size": [
+          46.0,
+          7.2,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 10
+    },
+    {
+      "id": "a_control_shell_mount_boss_set",
+      "label": "A Control Shell Mount Boss Set",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_shell_mount_boss_set.stl",
+      "sourceTriangles": 816,
+      "previewTriangles": 408,
+      "bounds": {
+        "min": [
+          -82.6,
+          -15.35,
+          0.0
+        ],
+        "max": [
+          82.6,
+          15.35,
+          4.4
+        ],
+        "size": [
+          165.2,
+          30.7,
+          4.4
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.2
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 11
+    },
+    {
+      "id": "a_control_pickup_wiper_mounts",
+      "label": "A Control Pickup Wiper Mounts",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_pickup_wiper_mounts.stl",
+      "sourceTriangles": 96,
+      "previewTriangles": 96,
+      "bounds": {
+        "min": [
+          -27.0,
+          -10.875,
+          0.0
+        ],
+        "max": [
+          27.0,
+          10.875,
+          3.1
+        ],
+        "size": [
+          54.0,
+          21.75,
+          3.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.55
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 12
+    },
+    {
+      "id": "a_control_cosmetic_sideframes",
+      "label": "A Control Cosmetic Sideframes",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_cosmetic_sideframes.stl",
+      "sourceTriangles": 1104,
+      "previewTriangles": 552,
+      "bounds": {
+        "min": [
+          -29.85,
+          -17.775,
+          -0.066
+        ],
+        "max": [
+          94.05,
+          17.775,
+          5.6
+        ],
+        "size": [
+          123.9,
+          35.55,
+          5.6659999999999995
+        ],
+        "center": [
+          32.099999999999994,
+          0.0,
+          2.767
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 13
+    },
+    {
+      "id": "a_control_lighting_tray",
+      "label": "A Control Lighting Tray",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_lighting_tray.stl",
+      "sourceTriangles": 180,
+      "previewTriangles": 180,
+      "bounds": {
+        "min": [
+          -14.0,
+          -5.0,
+          0.0
+        ],
+        "max": [
+          14.0,
+          5.0,
+          5.179
+        ],
+        "size": [
+          28.0,
+          10.0,
+          5.179
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.5895
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 14
+    },
+    {
+      "id": "a_control_truck_bolster_01",
+      "label": "A Control Truck Bolster 01",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_truck_bolster_01.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -12.75,
+          0.0
+        ],
+        "max": [
+          13.5,
+          12.75,
+          5.1
+        ],
+        "size": [
+          27.0,
+          25.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 15
+    },
+    {
+      "id": "a_control_truck_bolster_02",
+      "label": "A Control Truck Bolster 02",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_truck_bolster_02.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -12.75,
+          0.0
+        ],
+        "max": [
+          13.5,
+          12.75,
+          5.1
+        ],
+        "size": [
+          27.0,
+          25.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 16
+    },
+    {
+      "id": "a_control_motor_cradle",
+      "label": "A Control Motor Cradle",
+      "group": "Chassis - A Control",
+      "unit": "a_control",
+      "source": "../v1.0.1/exports/stl/chassis_parts/a_control/a_control_motor_cradle.stl",
+      "sourceTriangles": 380,
+      "previewTriangles": 380,
+      "bounds": {
+        "min": [
+          -32.0,
+          -7.0,
+          0.0
+        ],
+        "max": [
+          32.0,
+          7.0,
+          5.5
+        ],
+        "size": [
+          64.0,
+          14.0,
+          5.5
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.75
+        ]
+      },
+      "color": "#4f6f8f",
+      "order": 17
+    },
+    {
+      "id": "center_turbine_chassis_base_plate",
+      "label": "Center Turbine Chassis Base Plate",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_chassis_base_plate.stl",
+      "sourceTriangles": 8448,
+      "previewTriangles": 845,
+      "bounds": {
+        "min": [
+          -166.0,
+          -16.25,
+          0.0
+        ],
+        "max": [
+          166.0,
+          16.25,
+          4.8
+        ],
+        "size": [
+          332.0,
+          32.5,
+          4.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.4
+        ]
+      },
+      "color": "#6f777f",
+      "order": 18
+    },
+    {
+      "id": "center_turbine_front_coupler_pocket",
+      "label": "Center Turbine Front Coupler Pocket",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_front_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -6.9,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          9.0,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#6f777f",
+      "order": 19
+    },
+    {
+      "id": "center_turbine_rear_coupler_pocket",
+      "label": "Center Turbine Rear Coupler Pocket",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_rear_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -9.0,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          6.9,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          -1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#6f777f",
+      "order": 20
+    },
+    {
+      "id": "center_turbine_decoder_tray",
+      "label": "Center Turbine Decoder Tray",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_decoder_tray.stl",
+      "sourceTriangles": 368,
+      "previewTriangles": 368,
+      "bounds": {
+        "min": [
+          -19.5,
+          -10.5,
+          0.0
+        ],
+        "max": [
+          19.5,
+          10.5,
+          3.8
+        ],
+        "size": [
+          39.0,
+          21.0,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#6f777f",
+      "order": 21
+    },
+    {
+      "id": "center_turbine_speaker_box",
+      "label": "Center Turbine Speaker Box",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_speaker_box.stl",
+      "sourceTriangles": 348,
+      "previewTriangles": 348,
+      "bounds": {
+        "min": [
+          -18.0,
+          -10.0,
+          0.0
+        ],
+        "max": [
+          18.0,
+          10.0,
+          8.0
+        ],
+        "size": [
+          36.0,
+          20.0,
+          8.0
+        ],
+        "center": [
+          0.0,
+          0.0,
+          4.0
+        ]
+      },
+      "color": "#6f777f",
+      "order": 22
+    },
+    {
+      "id": "center_turbine_left_ballast_box",
+      "label": "Center Turbine Left Ballast Box",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_left_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -29.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          29.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          58.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#6f777f",
+      "order": 23
+    },
+    {
+      "id": "center_turbine_right_ballast_box",
+      "label": "Center Turbine Right Ballast Box",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_right_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -29.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          29.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          58.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#6f777f",
+      "order": 24
+    },
+    {
+      "id": "center_turbine_wire_retainers",
+      "label": "Center Turbine Wire Retainers",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_wire_retainers.stl",
+      "sourceTriangles": 144,
+      "previewTriangles": 144,
+      "bounds": {
+        "min": [
+          -23.0,
+          -3.6,
+          0.0
+        ],
+        "max": [
+          23.0,
+          3.6,
+          3.8
+        ],
+        "size": [
+          46.0,
+          7.2,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#6f777f",
+      "order": 25
+    },
+    {
+      "id": "center_turbine_shell_mount_boss_set",
+      "label": "Center Turbine Shell Mount Boss Set",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_shell_mount_boss_set.stl",
+      "sourceTriangles": 816,
+      "previewTriangles": 408,
+      "bounds": {
+        "min": [
+          -143.6,
+          -15.85,
+          0.0
+        ],
+        "max": [
+          143.6,
+          15.85,
+          4.4
+        ],
+        "size": [
+          287.2,
+          31.7,
+          4.4
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.2
+        ]
+      },
+      "color": "#6f777f",
+      "order": 26
+    },
+    {
+      "id": "center_turbine_pickup_wiper_mounts",
+      "label": "Center Turbine Pickup Wiper Mounts",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_pickup_wiper_mounts.stl",
+      "sourceTriangles": 96,
+      "previewTriangles": 96,
+      "bounds": {
+        "min": [
+          -27.0,
+          -11.125,
+          0.0
+        ],
+        "max": [
+          27.0,
+          11.125,
+          3.1
+        ],
+        "size": [
+          54.0,
+          22.25,
+          3.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.55
+        ]
+      },
+      "color": "#6f777f",
+      "order": 27
+    },
+    {
+      "id": "center_turbine_cosmetic_sideframes",
+      "label": "Center Turbine Cosmetic Sideframes",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_cosmetic_sideframes.stl",
+      "sourceTriangles": 2880,
+      "previewTriangles": 720,
+      "bounds": {
+        "min": [
+          -24.75,
+          -18.275,
+          -0.066
+        ],
+        "max": [
+          186.75,
+          18.275,
+          5.6
+        ],
+        "size": [
+          211.5,
+          36.55,
+          5.6659999999999995
+        ],
+        "center": [
+          81.0,
+          0.0,
+          2.767
+        ]
+      },
+      "color": "#6f777f",
+      "order": 28
+    },
+    {
+      "id": "center_turbine_lighting_tray",
+      "label": "Center Turbine Lighting Tray",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_lighting_tray.stl",
+      "sourceTriangles": 180,
+      "previewTriangles": 180,
+      "bounds": {
+        "min": [
+          -14.0,
+          -5.0,
+          0.0
+        ],
+        "max": [
+          14.0,
+          5.0,
+          5.179
+        ],
+        "size": [
+          28.0,
+          10.0,
+          5.179
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.5895
+        ]
+      },
+      "color": "#6f777f",
+      "order": 29
+    },
+    {
+      "id": "center_turbine_truck_bolster_01",
+      "label": "Center Turbine Truck Bolster 01",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_01.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -13.25,
+          0.0
+        ],
+        "max": [
+          13.5,
+          13.25,
+          5.1
+        ],
+        "size": [
+          27.0,
+          26.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#6f777f",
+      "order": 30
+    },
+    {
+      "id": "center_turbine_truck_bolster_02",
+      "label": "Center Turbine Truck Bolster 02",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_02.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -13.25,
+          0.0
+        ],
+        "max": [
+          13.5,
+          13.25,
+          5.1
+        ],
+        "size": [
+          27.0,
+          26.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#6f777f",
+      "order": 31
+    },
+    {
+      "id": "center_turbine_truck_bolster_03",
+      "label": "Center Turbine Truck Bolster 03",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_03.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -13.25,
+          0.0
+        ],
+        "max": [
+          13.5,
+          13.25,
+          5.1
+        ],
+        "size": [
+          27.0,
+          26.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#6f777f",
+      "order": 32
+    },
+    {
+      "id": "center_turbine_truck_bolster_04",
+      "label": "Center Turbine Truck Bolster 04",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_truck_bolster_04.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -13.25,
+          0.0
+        ],
+        "max": [
+          13.5,
+          13.25,
+          5.1
+        ],
+        "size": [
+          27.0,
+          26.5,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#6f777f",
+      "order": 33
+    },
+    {
+      "id": "center_turbine_motor_cradle",
+      "label": "Center Turbine Motor Cradle",
+      "group": "Chassis - Center Turbine",
+      "unit": "center_turbine",
+      "source": "../v1.0.1/exports/stl/chassis_parts/center_turbine/center_turbine_motor_cradle.stl",
+      "sourceTriangles": 380,
+      "previewTriangles": 380,
+      "bounds": {
+        "min": [
+          -40.0,
+          -7.0,
+          0.0
+        ],
+        "max": [
+          40.0,
+          7.0,
+          5.5
+        ],
+        "size": [
+          80.0,
+          14.0,
+          5.5
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.75
+        ]
+      },
+      "color": "#6f777f",
+      "order": 34
+    },
+    {
+      "id": "coal_tender_chassis_base_plate",
+      "label": "Coal Tender Chassis Base Plate",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_chassis_base_plate.stl",
+      "sourceTriangles": 4660,
+      "previewTriangles": 777,
+      "bounds": {
+        "min": [
+          -97.0,
+          -15.5,
+          0.0
+        ],
+        "max": [
+          97.0,
+          15.5,
+          4.8
+        ],
+        "size": [
+          194.0,
+          31.0,
+          4.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.4
+        ]
+      },
+      "color": "#5f5142",
+      "order": 35
+    },
+    {
+      "id": "coal_tender_front_coupler_pocket",
+      "label": "Coal Tender Front Coupler Pocket",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_front_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -6.9,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          9.0,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#5f5142",
+      "order": 36
+    },
+    {
+      "id": "coal_tender_rear_coupler_pocket",
+      "label": "Coal Tender Rear Coupler Pocket",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_rear_coupler_pocket.stl",
+      "sourceTriangles": 228,
+      "previewTriangles": 228,
+      "bounds": {
+        "min": [
+          -9.0,
+          -4.5,
+          0.0
+        ],
+        "max": [
+          6.9,
+          4.5,
+          5.0
+        ],
+        "size": [
+          15.9,
+          9.0,
+          5.0
+        ],
+        "center": [
+          -1.0499999999999998,
+          0.0,
+          2.5
+        ]
+      },
+      "color": "#5f5142",
+      "order": 37
+    },
+    {
+      "id": "coal_tender_decoder_tray",
+      "label": "Coal Tender Decoder Tray",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_decoder_tray.stl",
+      "sourceTriangles": 368,
+      "previewTriangles": 368,
+      "bounds": {
+        "min": [
+          -19.5,
+          -10.5,
+          0.0
+        ],
+        "max": [
+          19.5,
+          10.5,
+          3.8
+        ],
+        "size": [
+          39.0,
+          21.0,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#5f5142",
+      "order": 38
+    },
+    {
+      "id": "coal_tender_speaker_box",
+      "label": "Coal Tender Speaker Box",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_speaker_box.stl",
+      "sourceTriangles": 348,
+      "previewTriangles": 348,
+      "bounds": {
+        "min": [
+          -16.0,
+          -10.0,
+          0.0
+        ],
+        "max": [
+          16.0,
+          10.0,
+          8.0
+        ],
+        "size": [
+          32.0,
+          20.0,
+          8.0
+        ],
+        "center": [
+          0.0,
+          0.0,
+          4.0
+        ]
+      },
+      "color": "#5f5142",
+      "order": 39
+    },
+    {
+      "id": "coal_tender_left_ballast_box",
+      "label": "Coal Tender Left Ballast Box",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_left_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -21.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          21.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          42.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#5f5142",
+      "order": 40
+    },
+    {
+      "id": "coal_tender_right_ballast_box",
+      "label": "Coal Tender Right Ballast Box",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_right_ballast_box.stl",
+      "sourceTriangles": 60,
+      "previewTriangles": 60,
+      "bounds": {
+        "min": [
+          -21.0,
+          -4.2,
+          0.0
+        ],
+        "max": [
+          21.0,
+          4.2,
+          7.2
+        ],
+        "size": [
+          42.0,
+          8.4,
+          7.2
+        ],
+        "center": [
+          0.0,
+          0.0,
+          3.6
+        ]
+      },
+      "color": "#5f5142",
+      "order": 41
+    },
+    {
+      "id": "coal_tender_wire_retainers",
+      "label": "Coal Tender Wire Retainers",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_wire_retainers.stl",
+      "sourceTriangles": 144,
+      "previewTriangles": 144,
+      "bounds": {
+        "min": [
+          -23.0,
+          -3.6,
+          0.0
+        ],
+        "max": [
+          23.0,
+          3.6,
+          3.8
+        ],
+        "size": [
+          46.0,
+          7.2,
+          3.8
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.9
+        ]
+      },
+      "color": "#5f5142",
+      "order": 42
+    },
+    {
+      "id": "coal_tender_shell_mount_boss_set",
+      "label": "Coal Tender Shell Mount Boss Set",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_shell_mount_boss_set.stl",
+      "sourceTriangles": 816,
+      "previewTriangles": 408,
+      "bounds": {
+        "min": [
+          -74.6,
+          -15.1,
+          0.0
+        ],
+        "max": [
+          74.6,
+          15.1,
+          4.4
+        ],
+        "size": [
+          149.2,
+          30.2,
+          4.4
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.2
+        ]
+      },
+      "color": "#5f5142",
+      "order": 43
+    },
+    {
+      "id": "coal_tender_pickup_wiper_mounts",
+      "label": "Coal Tender Pickup Wiper Mounts",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_pickup_wiper_mounts.stl",
+      "sourceTriangles": 96,
+      "previewTriangles": 96,
+      "bounds": {
+        "min": [
+          -27.0,
+          -10.75,
+          0.0
+        ],
+        "max": [
+          27.0,
+          10.75,
+          3.1
+        ],
+        "size": [
+          54.0,
+          21.5,
+          3.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.55
+        ]
+      },
+      "color": "#5f5142",
+      "order": 44
+    },
+    {
+      "id": "coal_tender_cosmetic_sideframes",
+      "label": "Coal Tender Cosmetic Sideframes",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_cosmetic_sideframes.stl",
+      "sourceTriangles": 2664,
+      "previewTriangles": 888,
+      "bounds": {
+        "min": [
+          -19.75,
+          -17.525,
+          -0.066
+        ],
+        "max": [
+          107.75,
+          17.525,
+          5.6
+        ],
+        "size": [
+          127.5,
+          35.05,
+          5.6659999999999995
+        ],
+        "center": [
+          44.0,
+          0.0,
+          2.767
+        ]
+      },
+      "color": "#5f5142",
+      "order": 45
+    },
+    {
+      "id": "coal_tender_lighting_tray",
+      "label": "Coal Tender Lighting Tray",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_lighting_tray.stl",
+      "sourceTriangles": 180,
+      "previewTriangles": 180,
+      "bounds": {
+        "min": [
+          -14.0,
+          -5.0,
+          0.0
+        ],
+        "max": [
+          14.0,
+          5.0,
+          5.179
+        ],
+        "size": [
+          28.0,
+          10.0,
+          5.179
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.5895
+        ]
+      },
+      "color": "#5f5142",
+      "order": 46
+    },
+    {
+      "id": "coal_tender_truck_bolster_01",
+      "label": "Coal Tender Truck Bolster 01",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_01.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -12.5,
+          0.0
+        ],
+        "max": [
+          13.5,
+          12.5,
+          5.1
+        ],
+        "size": [
+          27.0,
+          25.0,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#5f5142",
+      "order": 47
+    },
+    {
+      "id": "coal_tender_truck_bolster_02",
+      "label": "Coal Tender Truck Bolster 02",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_02.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -12.5,
+          0.0
+        ],
+        "max": [
+          13.5,
+          12.5,
+          5.1
+        ],
+        "size": [
+          27.0,
+          25.0,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#5f5142",
+      "order": 48
+    },
+    {
+      "id": "coal_tender_truck_bolster_03",
+      "label": "Coal Tender Truck Bolster 03",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_truck_bolster_03.stl",
+      "sourceTriangles": 612,
+      "previewTriangles": 306,
+      "bounds": {
+        "min": [
+          -13.5,
+          -12.5,
+          0.0
+        ],
+        "max": [
+          13.5,
+          12.5,
+          5.1
+        ],
+        "size": [
+          27.0,
+          25.0,
+          5.1
+        ],
+        "center": [
+          0.0,
+          0.0,
+          2.55
+        ]
+      },
+      "color": "#5f5142",
+      "order": 49
+    },
+    {
+      "id": "coal_tender_optional_power_truck_adapter",
+      "label": "Coal Tender Optional Power Truck Adapter",
+      "group": "Chassis - Coal Tender",
+      "unit": "coal_tender",
+      "source": "../v1.0.1/exports/stl/chassis_parts/coal_tender/coal_tender_optional_power_truck_adapter.stl",
+      "sourceTriangles": 524,
+      "previewTriangles": 262,
+      "bounds": {
+        "min": [
+          -17.0,
+          -9.0,
+          0.0
+        ],
+        "max": [
+          17.0,
+          9.0,
+          3.4
+        ],
+        "size": [
+          34.0,
+          18.0,
+          3.4
+        ],
+        "center": [
+          0.0,
+          0.0,
+          1.7
+        ]
+      },
+      "color": "#5f5142",
+      "order": 50
+    },
+    {
+      "id": "up80_detail_sprue",
+      "label": "Detail Sprue",
+      "group": "Details",
+      "unit": "details",
+      "source": "../v1.0.1/exports/stl/details/up80_detail_sprue.stl",
+      "sourceTriangles": 2772,
+      "previewTriangles": 924,
+      "bounds": {
+        "min": [
+          -90.0,
+          -35.5,
+          0.0
+        ],
+        "max": [
+          90.0,
+          38.5,
+          14.5
+        ],
+        "size": [
+          180.0,
+          74.0,
+          14.5
+        ],
+        "center": [
+          0.0,
+          1.5,
+          7.25
+        ]
+      },
+      "color": "#b08c5a",
+      "order": 51
+    },
+    {
+      "id": "up80_test_coupons",
+      "label": "Test Coupons",
+      "group": "Details",
+      "unit": "details",
+      "source": "../v1.0.1/exports/stl/details/up80_test_coupons.stl",
+      "sourceTriangles": 1356,
+      "previewTriangles": 678,
+      "bounds": {
+        "min": [
+          -59.0,
+          -21.0,
+          -2.025
+        ],
+        "max": [
+          59.0,
+          28.25,
+          10.0
+        ],
+        "size": [
+          118.0,
+          49.25,
+          12.025
+        ],
+        "center": [
+          0.0,
+          3.625,
+          3.9875
+        ]
+      },
+      "color": "#b08c5a",
+      "order": 52
+    }
+  ],
+  "meshDataFile": "data/preview_meshes.js"
+}
